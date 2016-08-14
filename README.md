@@ -8,4 +8,6 @@
 - [ Program to implement Depth First Search & Breadth First Search in Graph using Adjacency Matrix ] (https://github.com/jatinkumar762/Graph-Programs/blob/master/Graph_DFS_BFS_Adj.cpp)
 - [ Program to check given graph is tree or not ] (https://github.com/jatinkumar762/Graph-Programs/blob/master/GraphTree.cpp)
 - [ Program for graph coloring using greedy approach ] (https://github.com/jatinkumar762/Graph-Programs/blob/master/GraphColoring.cpp)
+- [ Program to Detect Cycle in Directed Graph ] (https://github.com/jatinkumar762/Graph-Programs/blob/master/DetectCycleDirected.cpp)
+- [ Program to Detect Cycle in Undirected Graph ] (https://github.com/jatinkumar762/Graph-Programs/blob/master/DetectCycleUndirected.cpp)
 
