@@ -10,6 +10,5 @@
 - [ Program for graph coloring using greedy approach ] (https://github.com/jatinkumar762/Graph-Programs/blob/master/GraphColoring.cpp)
 - [ Program to Detect Cycle in Directed Graph ] (https://github.com/jatinkumar762/Graph-Programs/blob/master/DetectCycleDirected.cpp)
 - [ Program to Detect Cycle in Undirected Graph ] (https://github.com/jatinkumar762/Graph-Programs/blob/master/DetectCycleUndirected.cpp)
-- [ Program to print all Connected Components in an Undirected Graph ] (https://github.com/jatinkumar762/Graph-Programs/blob/master/ConnectedComponents.cpp)
-- 
+- [ Program to print all Connected Components in an Undirected Graph ]  (https://github.com/jatinkumar762/Graph-Programs/blob/master/ConnectedComponents.cpp)
 
