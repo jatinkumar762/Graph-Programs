@@ -13,5 +13,5 @@
 - [ Program to print all Connected Components in an Undirected Graph ]  (https://github.com/jatinkumar762/Graph-Programs/blob/master/ConnectedComponents.cpp)
 - [ Program to print all path from a given source to destination ] (https://github.com/jatinkumar762/Graph-Programs/blob/master/AllPath.cpp)
 - [ Program to print all elementary cycles in a directed graph ] (https://github.com/jatinkumar762/Graph-Programs/blob/master/AllCyclesDirected.cpp)
-- [ Program to print all elementary cycles in a undirected graph ] (https://github.com/jatinkumar762/Graph-Programs/blob/master/AllCyclesUndirected.cpp) 
+- [ Program to print all elementary cycles in an undirected graph ] (https://github.com/jatinkumar762/Graph-Programs/blob/master/AllCyclesUndirected.cpp) 
 
